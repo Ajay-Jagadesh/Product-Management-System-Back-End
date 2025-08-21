@@ -8,4 +8,7 @@ public interface ProductService {
     Product insertProductIntoDatabase(Product product);
     Product getProductById(int id);
     Product updateProduct(int id, Product product);
+    Product deleteProduct(int id,Product product);
+
+    com.ProjectOne.Product.Service.entity.Product deleteProduct(int id);
 }
