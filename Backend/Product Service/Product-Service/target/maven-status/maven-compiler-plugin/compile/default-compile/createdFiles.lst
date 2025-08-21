@@ -1,0 +1,7 @@
+com\ProjectOne\Product\Service\repository\ProductRepo.class
+com\ProjectOne\Product\Service\config\GlobalCorsConfig.class
+com\ProjectOne\Product\Service\ProductServiceApplication.class
+com\ProjectOne\Product\Service\service\impl\ProductServiceImpl.class
+com\ProjectOne\Product\Service\entity\Product.class
+com\ProjectOne\Product\Service\service\ProductService.class
+com\ProjectOne\Product\Service\controller\ProductController.class
